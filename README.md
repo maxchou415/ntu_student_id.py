@@ -9,11 +9,11 @@ pip install ntu-student-id
 # Usage
 
 ```python
-from student_id_parser import Parser
+from ntu-student-id import Parser
 
 # Create a parser instance with a valid student ID
 
-parser = Parser(student_id="T09902345)
+parser = Parser(student_id="T09902345")
 
 # Get department information
 print("Full Department Name:", parser.full()) # 資訊工程學系
