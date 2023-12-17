@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ntu_student_id"
-version = "1.0.1"
+version = "1.0.2"
 authors = [{ name = "Max Yi-Hsun Chou", email = "maxchou415@gmail.com" }]
 description = "Get department information by NTU student ID"
 readme = "README.md"

@@ -3,13 +3,13 @@ This Python module provides a simple parser for getting department information b
 # Installation
 
 ```base
-pip install ntu-student-id
+pip install ntu_student_id
 ```
 
 # Usage
 
 ```python
-from ntu-student-id import Parser
+from ntu_student_id import Parser
 
 # Create a parser instance with a valid student ID
 
